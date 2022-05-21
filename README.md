@@ -7,11 +7,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## Screenshots
-<img src="https://i2.paste.pics/H169S.png" width="1349" height="659" alt="ReactJs Website using Bootstrap - Header">
-<img src="https://i2.paste.pics/H16A3.png" width="1348" height="616" alt="ReactJs Website using Bootstrap - Services">
-<img src="https://i2.paste.pics/H16AD.png" width="1350" height="351" alt="ReactJs Website using Bootstrap - Footer">
-<img src="https://i2.paste.pics/H16AM.png" width="1349" height="666" alt="ReactJs Website using Bootstrap - About Us Page">
-<img src="https://i2.paste.pics/H16BT.png" width="1346" height="576" alt="ReactJs Website using Bootstrap - Contact Us Page">
+<img src="https://i2.paste.pics/H169S.png" width="70%" height="auto" alt="ReactJs Website using Bootstrap - Header">
+<img src="https://i2.paste.pics/H16A3.png" width="70%" height="auto" alt="ReactJs Website using Bootstrap - Services">
+<img src="https://i2.paste.pics/H16AD.png" width="70%" height="auto" alt="ReactJs Website using Bootstrap - Footer">
+<img src="https://i2.paste.pics/H16AM.png" width="70%" height="auto" alt="ReactJs Website using Bootstrap - About Us Page">
+<img src="https://i2.paste.pics/H16BT.png" width="70%" height="auto" alt="ReactJs Website using Bootstrap - Contact Us Page">
 
 ### `npm start`
 
