@@ -1,0 +1,12 @@
+.carousel-item {
+    background: no-repeat center center scroll;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+}
+
+.carousel-indicators button {
+  color: var(--primary-color);
+  background-color: var(--primary-color);
+}

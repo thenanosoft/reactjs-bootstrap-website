@@ -1,0 +1,7 @@
+.card-scale-up {
+    transition: linear .5s;
+}
+.card-scale-up:hover {
+    background-color: #f2f2f2;
+    transform: scale(1.05);
+}
