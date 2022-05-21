@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactjs-bootstrap-website/static/css/main.49159244.css",
+    "main.js": "/reactjs-bootstrap-website/static/js/main.43d76f8e.js",
+    "static/media/slide1.png": "/reactjs-bootstrap-website/static/media/slide1.a6e52947aedc9c408b90.png",
+    "static/media/Service.jpg": "/reactjs-bootstrap-website/static/media/Service.f1189f401c858972cd01.jpg",
+    "index.html": "/reactjs-bootstrap-website/index.html",
+    "main.49159244.css.map": "/reactjs-bootstrap-website/static/css/main.49159244.css.map",
+    "main.43d76f8e.js.map": "/reactjs-bootstrap-website/static/js/main.43d76f8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49159244.css",
+    "static/js/main.43d76f8e.js"
+  ]
+}
